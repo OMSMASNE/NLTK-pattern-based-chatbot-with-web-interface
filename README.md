@@ -1,4 +1,4 @@
-# NLTK CHATBOT with web-interface.
+# NLTK pattern based CHATBOT with web-interface.
 
 # This project has been created by ***OM SANTOSHKUMAR MASNE*** .
 

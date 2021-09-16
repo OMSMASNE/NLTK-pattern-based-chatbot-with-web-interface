@@ -1,0 +1,40 @@
+<!-- 
+Copyright (c) 2021 OM SANTOSHKUMAR MASNE.
+All Rights Reserved.
+Licensed under the MIT license.
+See LICENSE file in the project root for license information.
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <link rel="stylesheet" type="text/css" href="../static/style.css" />
+    <script src="../static/socket.io.min.js"></script>
+    <script src="../static/script.js"></script>
+</head>
+<body>
+    <div class="page-title">NLTK Chatbot Web Interface</div>
+
+    <div class="main-window">
+        <div class="inner-container">
+            <div class="container-title">NLTK CHATBOT</div>
+            <div class="chat-box">
+                <ul id="message-list" class="message-list">
+                    <li class="msg bot-msg">Hello, Welcome to the chat with bot!</li>
+
+                    <!-- <li class="msg user-msg">Hi!</li> -->
+
+                </ul>
+            </div>
+            <div class="user-response-container">
+                <input id="user-input" type="text" />
+                <button id="send-button" type="button">Send</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -27,10 +27,10 @@
 ### Screenshots:
 
 1. Web-Interface 1:
-![Web-Interface 1](./screenshots/web_1.jpg?raw=true)
+![Web-Interface 1](./screenshots/web_1.png?raw=true)
 
 2. Web-Interface 2:
-![Web-Interface 2](./screenshots/web_2.jpg?raw=true)
+![Web-Interface 2](./screenshots/web_2.png?raw=true)
 
 3. Console 1 (Dry Run):
 ![Console 1](./screenshots/console_1.jpg?raw=true)

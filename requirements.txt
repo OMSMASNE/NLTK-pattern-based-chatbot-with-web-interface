@@ -5,6 +5,5 @@
 
 Flask
 Flask-SocketIO
-pytorch
 numpy
 nltk

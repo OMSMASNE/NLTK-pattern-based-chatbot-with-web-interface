@@ -11,6 +11,7 @@
 
 #### Requirements:
 * Install the necessary requirements: `pip install -r requirements.txt`.
+* Install PyTorch ([official website](https://pytorch.org)).
 
 #### This command is to be run only once:
 * Command: `python run_once.py`
